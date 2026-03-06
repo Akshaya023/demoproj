@@ -1,1 +1,2 @@
 # demoproj
+echo "Hello"
